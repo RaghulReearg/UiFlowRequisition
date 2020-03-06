@@ -1,0 +1,22 @@
+body {
+  background: #060714;
+}
+.forms {
+  border-radius: 10px;
+  color: white;
+
+  padding: 50px;
+  background: white;
+}
+i.icon-blue {
+  color: blue;
+}
+i.icon-purple {
+  color: #d500f9;
+}
+i.icon-red {
+  color: red;
+}
+.btn {
+  float: right;
+}
